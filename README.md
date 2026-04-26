@@ -24,6 +24,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 I am currently pursuing the following credentials to align with industry standards:
 
 - [ ] **CompTIA Network+** (Target: June 2026)
+- [ ] **CompTIA Security+** (Target: May 2026)
 - [x] **TryHackMe SOC Level 1** (Completed)
 - [x] **Active Directory - TestDome Top 10%** (Completed)
 
