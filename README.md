@@ -1,7 +1,8 @@
 IST 110: Learning Portfolio
 > **Gavin Bennett** | Cybersecurity Student & IT Specialist
 
-Welcome to my academic portfolio. This repository documents my coursework, technical labs, and progress toward professional certifications.
+Welcome to my academic portfolio. This repository documents my coursework, technical labs, and progress toward professional certifications. Below are linked assignments throughout the academic year in IST.
+I have created this live site portfolio in a GitHub repository and coded my own portfolio that encompasses past assingments.
 
 ---
 
