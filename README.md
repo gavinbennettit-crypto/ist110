@@ -16,6 +16,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | Mar 2026 | CODIS Cold Case | Activity | [View Activity](CODIS%20Cold%20Case%20(1).pdf) |
 | Mar 2026 | SQL Assignment | Activity | [View Activity](SQL%20ASSIGNMENT%20(1).pdf) |
 | Mar 2026 | OSINT Group Activity | Activity | [View Activity](./L08%20GROUP%20ACTIVITY%202%20OSINT%20-%20Copy.pdf) |
+| Mar 2026 | HTML Activity | Activity | [View Activity](./HTML%20Activity.pdf) |
 
 ---
 
