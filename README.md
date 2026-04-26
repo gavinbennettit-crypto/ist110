@@ -12,7 +12,6 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | :--- | :--- | :--- | :--- |
 | Jan 2026 | Virtual Treasure Hunt | Group Project | [View Project](Virtual%20Information%20Treaure%20Hunt%20(1).pdf) |
 | Feb 2026 | Dissecting Hardware Lab | Lab | [View Lab](Dissecting%20Hardware%20Lab.pdf) |
-| May 2026 | Security Case Study | Research | [View Project](assignments/project1.md) |
 
 ---
 
