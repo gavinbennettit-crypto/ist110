@@ -6,6 +6,14 @@ I have created this live site portfolio in a GitHub repository and coded my own 
 
 ---
 
+## 💻 How This Portfolio Was Built
+This project serves as a live demonstration of my ability to manage technical documentation and web deployment.
+* **Version Control:** Built and maintained using Git and GitHub.
+* **Documentation:** Coded in Markdown for clean, readable table structures and file pathing.
+* **Hosting:** Deployed via GitHub Pages to provide a professional, live-access URL for coursework verification.
+
+---
+
 ## 🛠️ Assignment Repository
 *Adding a new project is as simple as adding a row to this table.*
 
