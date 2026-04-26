@@ -10,20 +10,20 @@ I have created this live site portfolio in a GitHub repository and coded my own 
 This project serves as a live demonstration of my ability to manage technical documentation and web deployment.
 * **Version Control:** Built and maintained using Git and GitHub.
 * **Documentation:** Coded in Markdown for clean, readable table structures and file pathing.
-* **Hosting:** Deployed via GitHub Pages to provide a professional, live-access URL for coursework verification.
+* **Hosting:** Deployed via GitHub Pages to provide a professional, live access URL for coursework verification.
 
 ---
 
 ## 🛠️ The Logic Behind the Build
-I chose to build this portfolio using a **Docs-as-Code** approach because I believe technical work should be as accessible as it is secure. Instead of using a drag-and-drop site builder, I hand-coded this environment to demonstrate my comfort with version control and web fundamentals.
+I chose to build this portfolio using a **Docs-as-Code** approach because I believe technical work should be as accessible as it is secure. Instead of using a drag and drop site builder, I hand coded this environment to demonstrate my comfort with version control and web fundamentals.
 
 ### 🧩 Solving the "Rendering" Puzzle
-During development, I encountered a common issue where browser security settings would force-download my labs instead of displaying them. I solved this by:
+During development I encountered a common issue where browser security settings would forcefully download my labs instead of displaying them. I solved this by:
 * **Encoding Paths:** Implementing **RFC 3986 URL Encoding** (like using `%20` for spaces) to ensure my file paths never break across different browsers.
-* **Relative Navigation:** Using `./` pathing to trigger the browser's native PDF viewer. This ensures that when you click "View," the work "booms" instantly in the browser without cluttering your downloads folder.
+* **Relative Navigation:** Using `./` pathing to trigger the browser's native PDF viewer. This ensures that when you click "View," the work is instantly in the browser without cluttering your downloads folder.
 
 ### 🚀 Automated Deployment
-This site isn't just a static page—it's alive. It uses **GitHub Pages** for automated deployment. Every time I commit a new assignment, the system automatically rebuilds the site into a clean, professional interface. This workflow reflects my focus on **High Availability** and **Integrity**—two core pillars of the Cybersecurity mindset.
+This site isn't just a static page it's actually alive. It uses **GitHub Pages** for automated deployment. Every time I commit a new assignment, the system automatically rebuilds the site into a clean, professional interface. This workflow reflects my focus on **High Availability** and **Integrity**—two core pillars of the Cybersecurity mindset.
 
 ---
 
