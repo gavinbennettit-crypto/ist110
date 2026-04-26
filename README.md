@@ -18,6 +18,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | Mar 2026 | OSINT Group Activity | Activity | [View Activity](./L08%20GROUP%20ACTIVITY%202%20OSINT%20-%20Copy.pdf) |
 | Mar 2026 | HTML Activity | Activity | [View Activity](./HTML%20Activity.pdf) |
 
+
 ---
 
 ## 🛡️ Technical Certifications
