@@ -21,6 +21,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | Apr 2026 | Account Security Infographic | Group Project | [View Project](./Account%20Security%20Infographic.pdf) |
 | Apr 2026 | Privacy Assignment | Activity | [View Activity](./Privacy%20assignment%20.pdf) |
 | Apr 2026 | Cybercrime and Punishment | Activity | [View Activity](./Cybercrime%20and%20Punishment%20(1).pdf) |
+| Apr 2026 | Enterprise Tech Integration | Assignment | [View Activity](./Enterprise%20Technology%20Integration%20Assignment%20(1).pdf) |
 
 ---
 
