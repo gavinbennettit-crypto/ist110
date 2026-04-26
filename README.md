@@ -14,6 +14,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | Feb 2026 | Dissecting Hardware Lab | Lab | [View Lab](Dissecting%20Hardware%20Lab.pdf) |
 | Feb 2026 | Python Programming Activity | Activity | [View Activity](Python%20Progamming%20Activity.pdf) |
 | Mar 2026 | CODIS Cold Case | Activity | [View Activity](CODIS%20Cold%20Case%20(1).pdf) |
+| Mar 2026 | SQL Assignment | Assignment | [View Assignment](SQL%20ASSIGNMENT%20(1).pdf) |
 
 ---
 
