@@ -13,7 +13,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | Jan 2026 | Virtual Treasure Hunt | Group Project | [View Project](Virtual%20Information%20Treaure%20Hunt%20(1).pdf) |
 | Feb 2026 | Dissecting Hardware Lab | Lab | [View Lab](Dissecting%20Hardware%20Lab.pdf) |
 | Feb 2026 | Python Programming Activity | Activity | [View Activity](Python%20Progamming%20Activity.pdf) |
-| Mar 2026 | CODIS Cold Case | Lab | [View Lab](CODIS%20Cold%20Case%20(1).pdf) |
+| Mar 2026 | CODIS Cold Case | Activity | [View Activity](CODIS%20Cold%20Case%20(1).pdf) |
 
 ---
 
