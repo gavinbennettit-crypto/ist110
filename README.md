@@ -10,7 +10,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 
 | Date | Assignment Name | Category | Link |
 | :--- | :--- | :--- | :--- |
-| Apr 2026 | Networking Fundamentals | Lab | [View Lab](assignments/networking.pdf) |
+| Apr 2026 | Virtual Treasure Hunter | Group Project | [View Project](Virtual%20Information%20Treaure%20Hunt.docx) |
 | Apr 2026 | Python Automation Script | Scripting | [View Code](assignments/script1.py) |
 | May 2026 | Security Case Study | Research | [View Project](assignments/project1.md) |
 
