@@ -23,7 +23,7 @@ During development I encountered a common issue where browser security settings 
 * **Relative Navigation:** Using `./` pathing to trigger the browser's native PDF viewer. This ensures that when you click "View," the work is instantly in the browser without cluttering your downloads folder.
 
 ### 🚀 Automated Deployment
-This site isn't just a static page it's actually alive. It uses **GitHub Pages** for automated deployment. Every time I commit a new assignment, the system automatically rebuilds the site into a clean, professional interface. This workflow reflects my focus on **High Availability** and **Integrity**—two core pillars of the Cybersecurity mindset.
+This site isn't just a static page it's actually alive. It uses **GitHub Pages** for automated deployment. Every time I commit a new assignment, the system automatically rebuilds the site into a clean, professional interface. This workflow reflects my focus on high availability and integrity, which are two core pillars of the Cybersecurity mindset.
 
 ---
 
