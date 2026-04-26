@@ -1,4 +1,4 @@
-feb# IST 110: Learning Portfolio
+IST 110: Learning Portfolio
 > **Gavin Bennett** | Cybersecurity Student & IT Specialist
 
 Welcome to my academic portfolio. This repository documents my coursework, technical labs, and progress toward professional certifications.
@@ -18,6 +18,7 @@ Welcome to my academic portfolio. This repository documents my coursework, techn
 | Mar 2026 | OSINT Group Activity | Activity | [View Activity](./L08%20GROUP%20ACTIVITY%202%20OSINT%20-%20Copy.pdf) |
 | Mar 2026 | HTML Activity | Activity | [View Activity](./HTML%20Activity.pdf) |
 | Mar 2026 | JavaScript Activity | Activity | [View Activity](./JavaScript%20.pdf) |
+| Apr 2026 | Account Security Infographic | Group Project | [View Project](./Account%20Security%20Infographic.pdf) |
 
 ---
 
