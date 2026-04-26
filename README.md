@@ -38,4 +38,4 @@ I am currently pursuing the following credentials to align with industry standar
 
 ## 📬 Contact & Links
 - **GitHub:** [gavinbennettit-crypto](https://github.com/gavinbennettit-crypto)
-- **LinkedIn:** [https://www.linkedin.com/in/gavin-bennett-928608353/]
+- **LinkedIn:** [Gavin Bennett](https://www.linkedin.com/in/gavin-bennett-928608353/)
