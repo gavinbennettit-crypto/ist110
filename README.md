@@ -1,10 +1,10 @@
 <div align="center">
   <h1>🛡️ IST 110: Learning Portfolio</h1>
-  <h3><b>Gavin Bennett</b> | Cybersecurity Student & IT Specialist</h3>
+  <h3>Gavin Bennett | Cybersecurity Student & IT Specialist</h3>
 
-  ![Penn State](https://img.shields.io/badge/Penn%20State-Main%20Campus-blue?style=flat-square&logo=pennstate) 
-  ![Major](https://img.shields.io/badge/Major-Cybersecurity-red?style=flat-square) 
-  ![Target](https://img.shields.io/badge/Target-CompTIA%20Security%2B-orange?style=flat-square&logo=comptia)
+  <img src="https://img.shields.io/badge/Penn%20State-Main%20Campus-blue?style=flat-square&logo=pennstate" alt="Penn State">
+  <img src="https://img.shields.io/badge/Major-Cybersecurity-red?style=flat-square" alt="Major">
+  <img src="https://img.shields.io/badge/Target-CompTIA%20Security%2B-orange?style=flat-square&logo=comptia" alt="Target">
 
   <p>Welcome to my academic portfolio. This repository documents my coursework, technical labs, and progress toward professional certifications.</p>
 </div>
